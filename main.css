@@ -1,1 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Question1 */
+.iniheading{
+    color: green;
+}
+
+/* Question2 */
+.colleges{
+    background: #c83;
+}
+
+/* Question3 */
+.topics li{
+    list-style-type: none;
+}
+
+/* Question4 */
+figure img{
+    max-width: 300px;
+}
+
+/* Question5-6 */
+figure{
+    display: inline-block;
+    margin: 20px;
+}
+
+div img{
+    width: 200px;
+    height: 170px;
+}
 
